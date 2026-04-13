@@ -1,4 +1,4 @@
-# Repository Checkpoint: Word Concreteness Effect Z-curve
+# Word Concreteness Effect Z-curve
 
 ## Overview
 This repository contains the checkpoint materials for our group project on the **word concreteness effect**. The project uses **z-curve analysis** to evaluate the evidential value and likely replicability of published findings in this literature.
